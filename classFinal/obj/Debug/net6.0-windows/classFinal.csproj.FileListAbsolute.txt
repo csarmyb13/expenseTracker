@@ -1,0 +1,16 @@
+D:\C#\classFinal\bin\Debug\net6.0-windows\classFinal.exe
+D:\C#\classFinal\bin\Debug\net6.0-windows\classFinal.deps.json
+D:\C#\classFinal\bin\Debug\net6.0-windows\classFinal.runtimeconfig.json
+D:\C#\classFinal\bin\Debug\net6.0-windows\classFinal.dll
+D:\C#\classFinal\bin\Debug\net6.0-windows\classFinal.pdb
+D:\C#\classFinal\obj\Debug\net6.0-windows\classFinal.Form1.resources
+D:\C#\classFinal\obj\Debug\net6.0-windows\classFinal.csproj.GenerateResource.cache
+D:\C#\classFinal\obj\Debug\net6.0-windows\classFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\classFinal\obj\Debug\net6.0-windows\classFinal.AssemblyInfoInputs.cache
+D:\C#\classFinal\obj\Debug\net6.0-windows\classFinal.AssemblyInfo.cs
+D:\C#\classFinal\obj\Debug\net6.0-windows\classFinal.csproj.CoreCompileInputs.cache
+D:\C#\classFinal\obj\Debug\net6.0-windows\classFinal.dll
+D:\C#\classFinal\obj\Debug\net6.0-windows\refint\classFinal.dll
+D:\C#\classFinal\obj\Debug\net6.0-windows\classFinal.pdb
+D:\C#\classFinal\obj\Debug\net6.0-windows\classFinal.genruntimeconfig.cache
+D:\C#\classFinal\obj\Debug\net6.0-windows\ref\classFinal.dll
